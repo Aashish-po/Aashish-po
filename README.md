@@ -1,116 +1,131 @@
-<!-- ========================= -->
-<!--  GitHub Profile README   -->
-<!-- ========================= -->
+<!-- =============================== -->
+<!--  Portfolio GitHub Profile README -->
+<!-- =============================== -->
 
-<h1 align="center">Hi 👋, I'm Aashish Paudel</h1>
-<h3 align="center">Computer Science Student | Aspiring Software Developer</h3>
+<!-- Animated Typing Header -->
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=1800&color=22C55E&center=true&vCenter=true&width=940&lines=Hi+👋%2C+I'm+Aashish+Paudel;Computer+Science+Student+from+Nepal;Aspiring+Software+Engineer;Actively+Building+%26+Learning+Every+Day" />
+</div>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&pause=500&center=true&vCenter=true&width=600&lines=CS+Student+from+Nepal;Learning+Node.js+and+Web+Development;Exploring+DSA+and+Problem+Solving;Building+Small+Projects+Every+Day" />
-</p>
-
----
-
-## 🧑‍💻 About Me
-
-I'm a **Computer Science student from Nepal 🇳🇵** who is passionate about learning how software works under the hood.  
-I enjoy building **small projects**, experimenting with new technologies, and continuously improving my **problem-solving skills**.
-
-- 🎓 CS student with a strong interest in **software development**
-- 🌱 Currently learning **Node.js**, **Git**, and **Data Structures & Algorithms**
-- 🛠️ Love building projects to apply what I learn
-- 🚀 Goal: Become a skilled **full-stack developer**
-- 📍 Based in **Nepal**
+<!-- Hero Banner -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Welcome%20to%20My%20Developer%20Portfolio&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=35" width="100%"/>
+</div>
 
 ---
 
-## 🔍 What I'm Currently Working On
+## 👨‍💻 About Me
 
-- Improving my **JavaScript fundamentals**
-- Learning **backend development with Node.js**
-- Understanding **Git & GitHub workflows**
-- Practicing **DSA and algorithmic thinking**
-- Creating beginner-friendly projects to strengthen my skills
+<div align="center">
 
----
+![Role](https://img.shields.io/badge/Role-CS%20Student-blue?style=for-the-badge)
+![Focus](https://img.shields.io/badge/Focus-Software%20Development-success?style=for-the-badge)
+![Status](https://img.shields.io/badge/Seeking-Internship-orange?style=for-the-badge)
+![Location](https://img.shields.io/badge/Location-Nepal-red?style=for-the-badge)
 
-## 🧠 Skills & Technologies
+</div>
 
-### 💻 Programming Languages
-- JavaScript (Beginner → Intermediate)
-- C / C++ (Basics)
-- Python (Basics)
+Hi! I’m **Aashish Paudel**, a **Computer Science student** passionate about building reliable software and continuously improving my problem-solving skills.
 
-### 🌐 Web Development
-- HTML5
-- CSS3
-- JavaScript (DOM, basics)
-- Node.js (Learning)
+I focus on **strong fundamentals**, real projects, and clean learning practices — preparing myself for **software engineering internships and junior roles**.
 
-### 🛠 Tools & Platforms
-- Git & GitHub
-- VS Code
-- Command Line (Basics)
-
-### 📚 Core CS Concepts
-- Data Structures & Algorithms (Learning)
-- Problem Solving
-- Basic Software Design Concepts
+- 🎓 CS student with hands-on learning approach  
+- 🌱 Learning **JavaScript, Node.js, Git, and DSA**  
+- 🧠 Strong interest in **backend & full-stack development**  
+- 🛠️ Believe in *learning by building*  
+- 🚀 Long-term goal: **Professional Software Engineer**
 
 ---
 
-## 📂 Featured Projects
+## 💡 Developer Mindset
 
-> 🚧 *More projects coming as I continue learning and building.*
+```js
+class AashishPaudel {
+  constructor() {
+    this.role = "CS Student / Software Engineer in Training";
+    this.skillsInProgress = [
+      "JavaScript",
+      "Node.js",
+      "Data Structures",
+      "Git & GitHub"
+    ];
+    this.values = [
+      "Consistency",
+      "Clean Code",
+      "Problem Solving",
+      "Growth Mindset"
+    ];
+    this.goal = "Internship → Full-Stack Engineer";
+  }
 
-### 🔹 Beginner Projects
-- **Hello World Projects** – First steps with GitHub & repositories
-- **Practice Repositories** – Learning Git, commits, and version control
-- **Small Experiments** – Testing ideas and learning by doing
+  dailyWorkflow() {
+    return [
+      "📖 Learn fundamentals",
+      "🧠 Solve problems",
+      "🛠 Build projects",
+      "🔁 Improve previous code"
+    ];
+  }
+}
+## 🎯 What I Do
+<div align="center"> <table> <tr> <td align="center" width="33%"> <h3>💻 Development</h3> <p>Build beginner-to-intermediate projects with focus on clarity, logic, and maintainability</p> </td> <td align="center" width="33%"> <h3>🧠 Problem Solving</h3> <p>Practice DSA to improve algorithmic thinking and interview readiness</p> </td> <td align="center" width="33%"> <h3>📈 Growth</h3> <p>Continuously refine fundamentals to prepare for internships and real-world engineering</p> </td> </tr> </table> </div>
+🛠️ Tech Stack
+💻 Languages
 
-*(Each project helps me understand real-world coding practices and workflows.)*
 
----
 
-## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Aashish-po&show_icons=true&theme=tokyonight" />
-</p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aashish-po&theme=tokyonight" />
-</p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aashish-po&layout=compact&theme=tokyonight" />
-</p>
+🌐 Web & Backend
 
----
 
-## 🎯 Goals for 2026
 
-- ✅ Become comfortable with **JavaScript & Node.js**
-- ✅ Build at least **10 meaningful projects**
-- ✅ Strengthen **DSA and problem-solving skills**
-- 🚀 Learn a frontend framework (React)
-- 🚀 Contribute to **open-source projects**
 
----
 
-## 🤝 Connect With Me
 
-- 🌐 GitHub: [https://github.com/Aashish-po](https://github.com/Aashish-po)
-- 📍 Location: Nepal 🇳🇵
-- 💬 Open to collaboration, learning, and feedback
+🧰 Tools
 
----
 
-## ✨ Fun Fact
 
-> “I believe consistency beats talent — I code a little every day.”
 
----
+📂 Featured Projects (Portfolio Cards)
+<div align="center"> <table> <tr> <td width="33%"> <h3>📌 JavaScript Practice</h3> <p>Hands-on JavaScript fundamentals including logic building and DOM basics.</p> <p><strong>Tech:</strong> JavaScript</p> </td> <td width="33%"> <h3>📌 Git & GitHub Practice</h3> <p>Learning version control, commits, branches, and collaboration workflows.</p> <p><strong>Tech:</strong> Git, GitHub</p> </td> <td width="33%"> <h3>📌 Node.js Basics</h3> <p>Beginner backend concepts using Node.js and simple scripts.</p> <p><strong>Tech:</strong> Node.js</p> </td> </tr> </table> </div>
 
-⭐ **If you like my profile or find my projects useful, feel free to star them!**  
-Thanks for visiting my GitHub profile 🙌
+🚧 Projects are continuously improving — code quality and structure evolve with learning.
+graph LR
+    A[CS Fundamentals] --> B[JavaScript]
+    B --> C[Node.js]
+    C --> D[Backend Projects]
+    D --> E[React]
+    E --> F[Full-Stack Development]
+    F --> G[Internship / Job]
+
+    style A fill:#16a34a,color:#fff
+    style B fill:#22c55e,color:#fff
+    style C fill:#3b82f6,color:#fff
+    style D fill:#6366f1,color:#fff
+    style E fill:#a855f7,color:#fff
+    style F fill:#ec4899,color:#fff
+    style G fill:#ef4444,color:#fff
+📊 GitHub Analytics
+<div align="center"> <img height="170em" src="https://github-readme-stats.vercel.app/api?username=Aashish-po&show_icons=true&theme=tokyonight&hide_border=true" /> <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aashish-po&layout=compact&theme=tokyonight&hide_border=true" /> </div> <div align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aashish-po&theme=tokyonight&hide_border=true" /> </div>
+🎯 Career Goals
+
+🎓 Secure a software development internship
+
+💻 Build real-world backend & full-stack projects
+
+🧠 Strengthen DSA & system thinking
+
+🚀 Transition into a junior software engineer role
+
+🤝 Let’s Connect
+<div align="center">
+
+</div>
+💬 Philosophy
+
+“Strong fundamentals today build great engineers tomorrow.”
+
+<div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/> <br/> ⭐ *Open to internships, collaboration, and learning opportunities* </div> ```
