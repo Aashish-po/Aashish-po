@@ -1,131 +1,97 @@
-<!-- =============================== -->
-<!--  Portfolio GitHub Profile README -->
-<!-- =============================== -->
-
-<!-- Animated Typing Header -->
+<!-- Header with animated typing effect -->
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=1800&color=22C55E&center=true&vCenter=true&width=940&lines=Hi+👋%2C+I'm+Aashish+Paudel;Computer+Science+Student+from+Nepal;Aspiring+Software+Engineer;Actively+Building+%26+Learning+Every+Day" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A855F7&center=true&vCenter=true&width=940&lines=Hi+%F0%9F%91%8B%2C+I'm+Aashish+Paudel;Computer+Science+Student;Building+the+Future+with+Code" alt="Typing SVG" />
 </div>
 
-<!-- Hero Banner -->
+<!-- Professional Banner -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Welcome%20to%20My%20Developer%20Portfolio&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=35" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=180&section=header&text=Welcome%20to%20my%20Digital%20Space&fontSize=36&fontColor=fff&animation=fadeIn&fontAlignY=35" width="100%"/>
 </div>
 
 ---
 
-## 👨‍💻 About Me
-
+## 🧑‍💻 About Me
 <div align="center">
-
-![Role](https://img.shields.io/badge/Role-CS%20Student-blue?style=for-the-badge)
-![Focus](https://img.shields.io/badge/Focus-Software%20Development-success?style=for-the-badge)
-![Status](https://img.shields.io/badge/Seeking-Internship-orange?style=for-the-badge)
-![Location](https://img.shields.io/badge/Location-Nepal-red?style=for-the-badge)
-
+  <p>
+    <img src="https://img.shields.io/badge/Role-Computer%20Science%20Student-blue?style=for-the-badge&logo=student&logoColor=white" alt="Role"/>
+    <img src="https://img.shields.io/badge/Focus-Coding%20%7C%20DSA%20%7C%20Web%20Development-blueviolet?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="Focus"/>
+    <img src="https://img.shields.io/badge/Mindset-Learning%20%7C%20Problem%20Solver-orange?style=for-the-badge&logo=lightbulb&logoColor=white" alt="Mindset"/>
+  </p>
 </div>
 
-Hi! I’m **Aashish Paudel**, a **Computer Science student** passionate about building reliable software and continuously improving my problem-solving skills.
-
-I focus on **strong fundamentals**, real projects, and clean learning practices — preparing myself for **software engineering internships and junior roles**.
-
-- 🎓 CS student with hands-on learning approach  
-- 🌱 Learning **JavaScript, Node.js, Git, and DSA**  
-- 🧠 Strong interest in **backend & full-stack development**  
-- 🛠️ Believe in *learning by building*  
-- 🚀 Long-term goal: **Professional Software Engineer**
+I’m **Aashish Paudel**, a passionate Computer Science student from Nepal. I love **coding, solving algorithmic challenges, and building projects** that make an impact. I’m currently learning full-stack web development, cloud computing, and exploring AI/ML technologies.  
 
 ---
 
-## 💡 Developer Mindset
+## 💡 Skills
 
-```js
-class AashishPaudel {
-  constructor() {
-    this.role = "CS Student / Software Engineer in Training";
-    this.skillsInProgress = [
-      "JavaScript",
-      "Node.js",
-      "Data Structures",
-      "Git & GitHub"
-    ];
-    this.values = [
-      "Consistency",
-      "Clean Code",
-      "Problem Solving",
-      "Growth Mindset"
-    ];
-    this.goal = "Internship → Full-Stack Engineer";
-  }
-
-  dailyWorkflow() {
-    return [
-      "📖 Learn fundamentals",
-      "🧠 Solve problems",
-      "🛠 Build projects",
-      "🔁 Improve previous code"
-    ];
-  }
-}
-## 🎯 What I Do
-<div align="center"> <table> <tr> <td align="center" width="33%"> <h3>💻 Development</h3> <p>Build beginner-to-intermediate projects with focus on clarity, logic, and maintainability</p> </td> <td align="center" width="33%"> <h3>🧠 Problem Solving</h3> <p>Practice DSA to improve algorithmic thinking and interview readiness</p> </td> <td align="center" width="33%"> <h3>📈 Growth</h3> <p>Continuously refine fundamentals to prepare for internships and real-world engineering</p> </td> </tr> </table> </div>
-🛠️ Tech Stack
-💻 Languages
-
-
-
-
-
-
-🌐 Web & Backend
-
-
-
-
-
-
-🧰 Tools
-
-
-
-
-📂 Featured Projects (Portfolio Cards)
-<div align="center"> <table> <tr> <td width="33%"> <h3>📌 JavaScript Practice</h3> <p>Hands-on JavaScript fundamentals including logic building and DOM basics.</p> <p><strong>Tech:</strong> JavaScript</p> </td> <td width="33%"> <h3>📌 Git & GitHub Practice</h3> <p>Learning version control, commits, branches, and collaboration workflows.</p> <p><strong>Tech:</strong> Git, GitHub</p> </td> <td width="33%"> <h3>📌 Node.js Basics</h3> <p>Beginner backend concepts using Node.js and simple scripts.</p> <p><strong>Tech:</strong> Node.js</p> </td> </tr> </table> </div>
-
-🚧 Projects are continuously improving — code quality and structure evolve with learning.
-graph LR
-    A[CS Fundamentals] --> B[JavaScript]
-    B --> C[Node.js]
-    C --> D[Backend Projects]
-    D --> E[React]
-    E --> F[Full-Stack Development]
-    F --> G[Internship / Job]
-
-    style A fill:#16a34a,color:#fff
-    style B fill:#22c55e,color:#fff
-    style C fill:#3b82f6,color:#fff
-    style D fill:#6366f1,color:#fff
-    style E fill:#a855f7,color:#fff
-    style F fill:#ec4899,color:#fff
-    style G fill:#ef4444,color:#fff
-📊 GitHub Analytics
-<div align="center"> <img height="170em" src="https://github-readme-stats.vercel.app/api?username=Aashish-po&show_icons=true&theme=tokyonight&hide_border=true" /> <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aashish-po&layout=compact&theme=tokyonight&hide_border=true" /> </div> <div align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aashish-po&theme=tokyonight&hide_border=true" /> </div>
-🎯 Career Goals
-
-🎓 Secure a software development internship
-
-💻 Build real-world backend & full-stack projects
-
-🧠 Strengthen DSA & system thinking
-
-🚀 Transition into a junior software engineer role
-
-🤝 Let’s Connect
 <div align="center">
 
+**Programming Languages:**  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
+
+**Web Development:**  
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+
+**Tools & Platforms:**  
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
 </div>
-💬 Philosophy
 
-“Strong fundamentals today build great engineers tomorrow.”
+---
 
-<div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/> <br/> ⭐ *Open to internships, collaboration, and learning opportunities* </div> ```
+## 🚀 Projects & Achievements
+- **Portfolio Website:** Built a personal website using **React.js & CSS**, showcasing my projects and blogs.  
+- **LeetCode Challenges:** Solved 400+ problems in **Python & C++**, improving DSA skills.  
+- **Mini Web App:** Developed a **task manager app** with Node.js, Express, and MongoDB.  
+- 🏆 Achievements: Participated in **Hackathons & coding competitions**, winning multiple online challenges.  
+
+---
+## 🌐 Connect with Me
+[![GitHub](https://img.shields.io/badge/GitHub-Aashish--po-black?style=for-the-badge&logo=github)](https://github.com/Aashish-po)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Aashish%20Paudel-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aashish-paudel-341045289)  
+[![Instagram](https://img.shields.io/badge/Instagram-aa__shish_07-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/aa__shish_07)  
+[![LeetCode](https://img.shields.io/badge/LeetCode-aa__shish_07-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/aa__shish_07)    
+[![Email](https://img.shields.io/badge/Email-poudelashish572@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:poudelashish572@gmail.com)
+
+---
+
+
+---
+
+## 📊 GitHub Stats
+<div align="center">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Aashish-po&show_icons=true&theme=radical&count_private=true" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aashish-po&layout=compact&theme=radical&langs_count=8" />
+</div>
+
+---
+
+## 🌱 Currently Learning
+- Advanced **Data Structures & Algorithms**  
+- Full-stack development (**React, Node.js, MongoDB**)  
+- Cloud deployment & best practices (**AWS, Docker**)  
+
+---
+
+## ⚡ Fun Facts
+- 💡 Love solving **coding challenges on LeetCode & HackerRank**  
+- 🏆 Enjoy **hackathons and online competitions**  
+- 📚 Passionate about **learning and sharing knowledge**  
+
+---
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer&animation=fadeIn" width="100%"/>
+  <p>⭐ Let's connect and build amazing things together!</p>
+</div>
