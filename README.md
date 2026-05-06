@@ -1,9 +1,9 @@
 # Hey, I'm Aashish Paudel 👋
 
-**Full-Stack Developer | AI/ML Enthusiast | Competitive Coder**
+**Full-Stack Developer | Problem Solver | Always Learning**
 
-Building intelligent systems, scalable applications, and solving complex problems. Currently pursuing BSc CSIT at Tribhuvan University with a focus on full-stack development and machine learning.
-
+From competitive coding to ML systems to enterprise SaaS. I build products that matter. 
+Node.js, React Native, Python, AI integration. Pokhara, Nepal. Let's collaborate.
 ---
 
 ## 🎯 What I Do
